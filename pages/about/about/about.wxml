@@ -1,0 +1,13 @@
+<cu-custom bgColor="bg-gradual-green" isBack="{{true}}"><view slot="backText">返回</view><view slot="content">关于</view></cu-custom>
+<view class='margin-xl bg-white padding-xl radius shadow-lg'>
+  <view class='text-center margin-bottom text-lg  text-grey'>关于</view>
+  <view class='text-content'>
+    <view>Hi！欢迎使用955公司名单小程序！</view>
+    <view class='margin-top-sm'>整理的公司名单，基本不属于 996 的公司，相对接近 955/965 的水平，但是依旧要看部门和地区，不能保证完全准确性。</view>
+    <view class='margin-top-sm'>不能保证所有部门都是 955/10-6-5/965/10-7-5 的水平</view>
+    <view class='margin-top-sm'>就算部门的平均水平是 955/10-6-5/965/10-7-5，也有可能部分时间要加班</view>
+    <view class='margin-top-sm'>名单中部分公司的部分部门可能有 975 甚至 985 的情况，不要以偏概全</view>
+    <view class='margin-top-sm'>名单中部分公司的部分甚至较多部门可能有 945、10-5-5 或者 11-6-5 的情况，我们也把他们加入在名单中</view>
+    <view class='margin-top-sm'>目前上海的居多，并不意味着 955 的公司大多都在上海。欢迎童鞋们继续到  http://github.com/formulahendry/955.WLB投票，我们会根据投票情况，加入更多公司。  </view>
+  </view>
+</view>

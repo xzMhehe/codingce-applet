@@ -1,0 +1,259 @@
+<scroll-view scroll-y class="scrollPage">
+  <image src='/images/componentBg.png' mode='widthFix' class='response'></image>
+  <view class="cu-bar bg-white solid-bottom margin-top">
+  <view class="action">
+    <text class="icon-title text-blue"></text>955公司名单如下
+  </view>
+</view>
+<view class="padding text-center">
+  <view class="padding-lr bg-white">
+    <view class="solid-bottom padding">
+    <text class="padding">Amaze</text>
+    </view>
+    <view class="padding">北京/上海</view>
+  </view>
+
+  <view class="padding-lr bg-white margin-top">
+    <view class="solid-bottom padding">
+    <text class="text-Abc">Apple</text>
+    </view>
+    <view class="padding">北京/上海</view>
+  </view>
+
+  <view class="padding-lr bg-white margin-top">
+    <view class="solid-bottom padding">
+    <text class="text-Abc">Autodesk</text>
+    </view>
+    <view class="padding">北京/上海</view>
+  </view>
+
+   <view class="padding-lr bg-white margin-top">
+    <view class="solid-bottom padding">
+    <text class="text-Abc">Citrix</text>
+    </view>
+    <view class="padding">上海</view>
+  </view>
+
+   <view class="padding-lr bg-white margin-top">
+    <view class="solid-bottom padding">
+    <text class="text-Abc">Cisco</text>
+    </view>
+    <view class="padding">北京/上海/杭州/苏州</view>
+  </view>
+
+   <view class="padding-lr bg-white margin-top">
+    <view class="solid-bottom padding">
+    <text class="text-Abc">Coolapk(酷安)</text>
+    </view>
+    <view class="padding">北京/深圳</view>
+  </view>
+
+   <view class="padding-lr bg-white margin-top">
+    <view class="solid-bottom padding">
+    <text class="text-Abc">Douban(豆瓣)</text>
+    </view>
+    <view class="padding">北京</view>
+  </view>
+
+   <view class="padding-lr bg-white margin-top">
+    <view class="solid-bottom padding">
+    <text class="text-Abc">eBay</text>
+    </view>
+    <view class="padding">上海</view>
+  </view>
+
+   <view class="padding-lr bg-white margin-top">
+    <view class="solid-bottom padding">
+    <text class="text-Abc">EMC</text>
+    </view>
+    <view class="padding">上海</view>
+  </view>
+
+   <view class="padding-lr bg-white margin-top">
+    <view class="solid-bottom padding">
+    <text class="text-Abc">Ericession</text>
+    </view>
+    <view class="padding">上海</view>
+  </view>
+
+   <view class="padding-lr bg-white margin-top">
+    <view class="solid-bottom padding">
+    <text class="text-Abc">Google</text>
+    </view>
+    <view class="padding">北京/上海</view>
+  </view>
+
+   <view class="padding-lr bg-white margin-top">
+    <view class="solid-bottom padding">
+    <text class="text-Abc">Grab</text>
+    </view>
+    <view class="padding">北京</view>
+  </view>
+
+   <view class="padding-lr bg-white margin-top">
+    <view class="solid-bottom padding">
+    <text class="text-Abc">HP</text>
+    </view>
+    <view class="padding">上海</view>
+  </view>
+
+   <view class="padding-lr bg-white margin-top">
+    <view class="solid-bottom padding">
+    <text class="text-Abc">HSBC</text>
+    </view>
+    <view class="padding">上海/广州/西安</view>
+  </view>
+
+   <view class="padding-lr bg-white margin-top">
+    <view class="solid-bottom padding">
+    <text class="text-Abc">Hulu</text>
+    </view>
+    <view class="padding">北京</view>
+  </view>
+
+   <view class="padding-lr bg-white margin-top">
+    <view class="solid-bottom padding">
+    <text class="text-Abc">IBM</text>
+    </view>
+    <view class="padding">上海(GBS除外)</view>
+  </view>
+
+   <view class="padding-lr bg-white margin-top">
+    <view class="solid-bottom padding">
+    <text class="text-Abc">Intel</text>
+    </view>
+    <view class="padding">上海</view>
+  </view>
+
+   <view class="padding-lr bg-white margin-top">
+    <view class="solid-bottom padding">
+    <text class="text-Abc">LeeCode</text>
+    </view>
+    <view class="padding">上海</view>
+  </view>
+
+   <view class="padding-lr bg-white margin-top">
+    <view class="solid-bottom padding">
+    <text class="text-Abc">LintCode/九章算法</text>
+    </view>
+    <view class="padding">杭州远程</view>
+  </view>
+
+  <view class="padding-lr bg-white margin-top">
+    <view class="solid-bottom padding">
+    <text class="text-Abc">Microsoft</text>
+    </view>
+    <view class="padding">北京/上海/苏州</view>
+  </view>
+
+  <view class="padding-lr bg-white margin-top">
+    <view class="solid-bottom padding">
+    <text class="text-Abc">National Instruments</text>
+    </view>
+    <view class="padding">上海</view>
+  </view>
+
+  <view class="padding-lr bg-white margin-top">
+    <view class="solid-bottom padding">
+    <text class="text-Abc">NVIDIA</text>
+    </view>
+    <view class="padding">北京/上海</view>
+  </view>
+
+  <view class="padding-lr bg-white margin-top">
+    <view class="solid-bottom padding">
+    <text class="text-Abc">Oracle</text>
+    </view>
+    <view class="padding">上海</view>
+  </view>
+
+  <view class="padding-lr bg-white margin-top">
+    <view class="solid-bottom padding">
+    <text class="text-Abc">PayPal</text>
+    </view>
+    <view class="padding">上海</view>
+  </view>
+
+  <view class="padding-lr bg-white margin-top">
+    <view class="solid-bottom padding">
+    <text class="text-Abc">RingCentral</text>
+    </view>
+    <view class="padding">厦门</view>
+  </view>
+
+  <view class="padding-lr bg-white margin-top">
+    <view class="solid-bottom padding">
+    <text class="text-Abc">SAP</text>
+    </view>
+    <view class="padding">上海</view>
+  </view>
+
+  <view class="padding-lr bg-white margin-top">
+    <view class="solid-bottom padding">
+    <text class="text-Abc">Splunk</text>
+    </view>
+    <view class="padding">上海</view>
+  </view>
+
+  <view class="padding-lr bg-white margin-top">
+    <view class="solid-bottom padding">
+    <text class="text-Abc">SUSE</text>
+    </view>
+    <view class="padding">北京/上海/深圳</view>
+  </view>
+
+  <view class="padding-lr bg-white margin-top">
+    <view class="solid-bottom padding">
+    <text class="text-Abc">ThoughtWorks</text>
+    </view>
+    <view class="padding">西安/北京/深圳/成都/武汉/上海</view>
+  </view>
+
+  <view class="padding-lr bg-white margin-top">
+    <view class="solid-bottom padding">
+    <text class="text-Abc">Trend Micro</text>
+    </view>
+    <view class="padding">南京</view>
+  </view>
+
+   <view class="padding-lr bg-white margin-top">
+    <view class="solid-bottom padding">
+    <text class="text-Abc">Vipshop(唯品会)</text>
+    </view>
+    <view class="padding">上海</view>
+  </view>
+
+   <view class="padding-lr bg-white margin-top">
+    <view class="solid-bottom padding">
+    <text class="text-Abc">VMware</text>
+    </view>
+    <view class="padding">南京</view>
+  </view>
+
+   <view class="padding-lr bg-white margin-top">
+    <view class="solid-bottom padding">
+    <text class="text-Abc">WeWork</text>
+    </view>
+    <view class="padding">上海</view>
+  </view>
+
+   <view class="padding-lr bg-white margin-top">
+    <view class="solid-bottom padding">
+    <text class="text-Abc">Works Applications</text>
+    </view>
+    <view class="padding">上海</view>
+  </view>
+
+  
+  
+  <view class="padding-lr bg-white margin-top">
+    <view class="solid-bottom padding">
+    <text class="text-ABC">持续更新中。。。</text>
+    </view>
+    <view class="padding"></view>
+  </view>
+
+   <view class="cu-tabbar-height"></view>
+ 
+</view>
+</scroll-view>

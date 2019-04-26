@@ -1,0 +1,58 @@
+<scroll-view scroll-y class="scrollPage">
+  <image src='/images/BasicsBg.png' mode='widthFix' class='png' style='width:100%;height:250rpx'></image>
+
+
+<view class="cu-bar bg-white solid-bottom margin-top">
+  <view class="action">
+    <text class="icon-title text-blue"></text>旨在让更多的人逃离996，加入955行列。
+  </view>
+</view>
+<view class="padding text-center">
+  <view class="padding-lr bg-white">
+    <view class="solid-bottom padding">
+    <text class="padding">996工作制</text>
+    </view>
+    <view class="padding">即每天早 9 点到岗，一直工作到晚上 9 点。每周工作 6 天。</view>
+  </view>
+
+  <view class="padding-lr bg-white margin-top">
+    <view class="solid-bottom padding">
+    <text class="text-ABC">996.ICU</text>
+    </view>
+    <view class="padding">工作 996，生病 ICU。</view>
+  </view>
+  
+  <view class="padding-lr bg-white margin-top">
+    <view class="solid-bottom padding">
+    <text class="text-Abc">955工作制</text>
+    </view>
+    <view class="padding">即每天早 9 点到岗，一直工作到下午 5 点。每周工作 5 天。</view>
+  </view>
+
+   <view class="padding-lr bg-white margin-top">
+    <view class="solid-bottom padding">
+    <text class="text-Abc">11-5-5 工作制</text>
+    </view>
+    <view class="padding">即每天上午 11 点到岗，一直工作到下午 5 点。每周工作 5 天。</view>
+  </view>
+
+  <view class="padding-lr bg-white margin-top">
+    <view class="solid-bottom padding">
+    <text class="text-ABC">955.WLB</text>
+    </view>
+    <view class="padding">工作 955，work–life balance (工作与生活的平衡)。</view>
+  </view>
+
+    <view class="padding-lr bg-white margin-top">
+    <view class="solid-bottom padding">
+    <text class="text-ABC">1155.Life</text>
+    </view>
+    <view class="padding">工作 11-5-5，生活为先。</view>
+  </view>
+
+   
+
+  <view class="cu-tabbar-height"></view>
+  
+</view>
+</scroll-view>
