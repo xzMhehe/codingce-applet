@@ -5,4 +5,4 @@
 
 小程序码（欢迎大家提供955企业名单提交到issues）：
 
-![小程序码](https://imgconvert.csdnimg.cn/aHR0cHM6Ly9pbWFnZXMuY25ibG9ncy5jb20vY25ibG9nc19jb20vbXpkbGpnei8xNTQzNTIzL29femhhbmdzaGFuZ2JpYW5jaGVuZy5qcGc?x-oss-process=image/format,png)
+![小程序码](http://image.codingce.com.cn/zhangshangbiancheng.jpg)
