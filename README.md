@@ -5,4 +5,4 @@
 
 小程序码（欢迎大家提供955企业名单提交到issues）：
 
-![小程序码](http://image.codingce.com.cn/zhangshangbiancheng.jpg)
+![欢迎访问](http://image.codingce.com.cn/blog/zhangshangbiancheng.jpg)
