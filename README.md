@@ -33,7 +33,7 @@
 
 | 支付宝  | 微信  |
 | :------------: | :------------: |
-| <img src="http://image.codingce.com.cn/alipay.png" width="150"/>  | <img src="http://image.codingce.com.cn/alipay.png" width="150" />  |
+| <img src="http://image.codingce.com.cn/alipay.png" width="150"/>  | <img src="http://image.codingce.com.cn/wechatpay.jpg" width="150" />  |
 
 ## 感谢以下捐赠者
 
