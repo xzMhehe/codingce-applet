@@ -19,7 +19,7 @@
 
 [![GitHub LICENSE](https://img.shields.io/github/license/aquanlerou/WeHalo.svg?style=flat-square)](https://github.com/aquanlerou/WeHalo/blob/master/LICENSE)
 
-> WeHalo使用GPL-v3.0协议开源，请尽量遵守开源协议，即便是在中国。
+> 955企业名单使用GPL-v3.0协议开源，请尽量遵守开源协议，即便是在中国。
 
 ### 感谢
 
