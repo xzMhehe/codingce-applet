@@ -2,10 +2,7 @@
   "pages": [
     "pages/index/index",
     "pages/basics/home/home",
-
-
     "pages/component/home/home",
-    
     "pages/auth/auth",
     "pages/about/about/about",
     "pages/about/log/log",
@@ -20,6 +17,7 @@
     "navigationBarTextStyle": "white"
   },
   "usingComponents": {
-    "cu-custom":"/colorui/components/cu-custom"
-  }
+    "cu-custom": "/colorui/components/cu-custom"
+  },
+  "sitemapLocation": "sitemap.json"
 }

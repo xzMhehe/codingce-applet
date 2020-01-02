@@ -13,11 +13,13 @@
 	"compileType": "miniprogram",
 	"libVersion": "2.6.4",
 	"appid": "wxee23f3461202fc71",
-	"projectname": "ReapsunStudio",
+	"projectname": "codingce-applet",
 	"debugOptions": {
 		"hidedInDevtools": []
 	},
 	"isGameTourist": false,
+	"simulatorType": "wechat",
+	"simulatorPluginLibVersion": {},
 	"condition": {
 		"search": {
 			"current": -1,
